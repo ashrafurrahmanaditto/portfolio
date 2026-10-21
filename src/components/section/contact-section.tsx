@@ -24,17 +24,32 @@ export default function ContactSection() {
           Get in Touch
         </h2>
         <p className="mx-auto max-w-lg text-muted-foreground text-balance">
-          Want to chat? Just shoot me a dm{" "}
+          Want to discuss tracking setups, fix analytics discrepancies, or collaborate on a project? Reach out directly via{" "}
           <Link
-            href={DATA.contact.social.X.url}
+            href={DATA.contact.social.email.url}
+            className="text-primary hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+          >
+            email
+          </Link>
+          , connect on{" "}
+          <Link
+            href={DATA.contact.social.LinkedIn.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-500 hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+            className="text-primary hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
           >
-            with a direct question on twitter
-          </Link>{" "}
-          and I&apos;ll respond whenever I can. I will ignore all
-          soliciting.
+            LinkedIn
+          </Link>
+          , or message on{" "}
+          <Link
+            href={DATA.contact.social.WhatsApp.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+          >
+            WhatsApp
+          </Link>
+          .
         </p>
       </div>
     </div>

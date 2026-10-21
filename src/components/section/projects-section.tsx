@@ -5,6 +5,9 @@ import { DATA } from "@/data/resume";
 const BLUR_FADE_DELAY = 0.04;
 
 export default function ProjectsSection() {
+    if (!DATA.projects || DATA.projects.length === 0) {
+        return null;
+    }
     return (
         <section id="projects">
             <div className="flex min-h-0 flex-col gap-y-8">
@@ -32,7 +35,7 @@ export default function ProjectsSection() {
                     </div>
                 </div>
                 <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 max-w-[800px] mx-auto auto-rows-fr">
-                    {DATA.projects.map((project, id) => (
+                    {(DATA.projects as readonly any[]).map((project, id) => (
                         <BlurFade
                             key={project.title}
                             delay={BLUR_FADE_DELAY * 12 + id * 0.05}
