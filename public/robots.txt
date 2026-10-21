@@ -1,0 +1,40 @@
+# robots.txt for https://ashrafurrahman.cv
+# Allow all major search engines and AI crawlers for Generative Engine Optimization (GEO)
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI & LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Sitemaps
+Sitemap: https://ashrafurrahman.cv/sitemap.xml
+
+# LLM Context Document
+# See: https://ashrafurrahman.cv/llms.txt

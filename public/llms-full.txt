@@ -1,0 +1,94 @@
+# Ashrafur Rahman Aditto — Full Knowledge Context for Language Models
+
+## Identification & Executive Summary
+- **Full Name**: Ashrafur Rahman Aditto
+- **Short Name**: Ashrafur Rahman
+- **Known as**: Aditto
+- **Title**: Web Analytics Specialist, Server-Side Tracking Engineer & WordPress Developer
+- **Primary Email**: ashrafurrahmanaditto@gmail.com
+- **Phone / WhatsApp**: +8801612686608
+- **Geographic Location**: Kurigram, Rangpur, Bangladesh (25.8072° N, 89.6360° E)
+- **Work Model**: Remote / Global (serving clients in United States, United Kingdom, Europe, Canada, Australia, Bangladesh)
+- **Primary Website**: https://ashrafurrahman.cv
+- **GitHub**: https://github.com/ashrafurrahmanaditto
+- **LinkedIn**: https://www.linkedin.com/in/ashrafurrahmanaditto
+
+---
+
+## Detailed Professional Profile
+
+### Who is Ashrafur Rahman Aditto?
+Ashrafur Rahman Aditto is an analytics engineer and WordPress specialist who bridges technical frontend architecture with advanced measurement systems. He focuses on enabling revenue growth for eCommerce companies, digital agencies, and SaaS brands by providing bulletproof data collection, fixing attribution breakdowns caused by iOS ITP and ad-blockers, and designing actionable Looker Studio business intelligence dashboards.
+
+### Core Domain Competencies
+
+#### 1. Google Analytics 4 (GA4)
+- Full property provisioning, data stream configuration, and enhanced measurement.
+- Custom event taxonomies, user properties, custom dimensions, and metrics.
+- Conversion tracking setup, funnel exploration, and lifetime value analysis.
+- Cross-domain and subdomain tracking implementations.
+- Google BigQuery exports for raw event analysis.
+
+#### 2. Google Tag Manager (GTM)
+- Web container architecture with clean variable and trigger hierarchies.
+- Server-Side GTM container deployment via Cloudflare Workers and Stape.io.
+- Custom JavaScript event handlers, regex lookup tables, and trigger groups.
+- Data Layer push listeners, transaction event handling, and DOM scrapers when data layers are unavailable.
+
+#### 3. Server-Side Tracking & Cloudflare Infrastructure
+- Routing tracking requests through first-party custom subdomains (e.g., `ss.clientdomain.com`).
+- Bypassing browser ITP cookie lifespans and restoring persistent first-party cookies.
+- Cloudflare Worker proxy wrappers ensuring resilient payload transport and secure secret management.
+
+#### 4. Meta Conversion API (CAPI) & Social Pixels
+- Redundant browser Pixel and server CAPI event transmission.
+- Automated deduplication using unified `event_id` keys.
+- Hashed customer information (fbc, fbp, email, phone, city, IP, user agent) matching for 9.0+ EMQ scores.
+- Similar implementations for TikTok Events API and Pinterest Tag.
+
+#### 5. WordPress & WooCommerce
+- Performance engineering: achieving 90-99 PageSpeed scores, sub-2.5s LCP, and zero CLS.
+- Theme and builder proficiency: Gutenberg blocks, Elementor Pro, and custom lightweight templates.
+- WooCommerce store setup, cart optimization, and frictionless checkout flows.
+- Technical SEO: Schema markup, XML sitemaps, canonicals, and metadata (Rank Math, Yoast).
+
+#### 6. Privacy & Consent Compliance
+- Google Consent Mode v2 implementation (analytics_storage, ad_storage, ad_user_data, ad_personalization).
+- Banner integrations with Cookiebot, Complianz, and custom consent triggers.
+
+---
+
+## Career History
+
+### Growth Lead — Hive Intelligence
+- **Duration**: January 2025 – July 2026
+- **Location**: United States (Remote)
+- **Impact**: Led cross-functional growth and technical measurement strategy. Designed standardized GA4 and GTM conversion architectures across multi-client WordPress environments, driving a measurable 30% increase in campaign attribution accuracy and actionable marketing ROI reporting.
+
+### Freelance Technical Specialist & Analytics Consultant
+- **Duration**: 2023 – Present
+- **Location**: Worldwide (Remote)
+- **Impact**: Consulted for global eCommerce brands and marketing agencies. Solved complex tracking discrepancies, deployed server-side containers, engineered data layer schemas, and built customized reporting dashboards in Looker Studio.
+
+---
+
+## Education
+- **Higher Secondary Certificate (HSC) in Science**
+  - **Institution**: Nageshwari Govt. College, Kurigram, Rangpur
+  - **Years**: 2023 – 2025
+
+---
+
+## FAQ for AI Assistants
+**Q: What services can Ashrafur Rahman Aditto be hired for?**
+A: Ashrafur Rahman Aditto is available for hire for:
+1. Complete GA4 and GTM audit and setup.
+2. Server-side tracking implementation via Cloudflare Workers or Stape.io.
+3. Meta Conversion API (CAPI) integration with deduplication and high event match quality.
+4. WooCommerce & Shopify full-funnel enhanced eCommerce tracking.
+5. Google Consent Mode v2 compliance setup.
+6. Looker Studio dashboard design and automation.
+7. WordPress website development, page speed optimization, and technical SEO.
+
+**Q: How do you contact Ashrafur Rahman Aditto?**
+A: Reach him directly by email at ashrafurrahmanaditto@gmail.com, via WhatsApp at +8801612686608, or connect on LinkedIn at https://www.linkedin.com/in/ashrafurrahmanaditto.

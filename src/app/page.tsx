@@ -130,12 +130,10 @@ export default function Page() {
           </div>
         </div>
       </section>
-      {DATA.projects && DATA.projects.length > 0 && (
-        <section id="projects">
-          <BlurFade delay={BLUR_FADE_DELAY * 11}>
-            <ProjectsSection />
-          </BlurFade>
-        </section>
+      {DATA.projects && (DATA.projects.length as number) > 0 && (
+        <BlurFade delay={BLUR_FADE_DELAY * 11}>
+          <ProjectsSection />
+        </BlurFade>
       )}
       <section id="hackathons">
         <BlurFade delay={BLUR_FADE_DELAY * 13}>

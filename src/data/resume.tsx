@@ -12,7 +12,7 @@ import { Gsc } from "@/components/ui/svgs/gsc";
 export const DATA = {
   name: "Ashrafur Rahman Aditto",
   initials: "ARA",
-  url: "https://github.com/ashrafurrahmanaditto",
+  url: "https://ashrafurrahman.cv",
   location: "Kurigram, Rangpur, Bangladesh",
   locationLink: "https://www.google.com/maps/place/Kurigram",
   description:
@@ -105,7 +105,84 @@ export const DATA = {
       end: "2025",
     },
   ],
-  projects: [],
+  projects: [
+    {
+      title: "Server-Side Tracking & Meta CAPI Infrastructure",
+      href: "#",
+      dates: "2025 - 2026",
+      active: true,
+      description:
+        "Engineered server-side tracking infrastructure using Cloudflare Workers and Stape GTM containers. Bypasses iOS ITP restrictions and ad-blockers, achieving 9.2/10 Event Match Quality score on Meta CAPI and recovering 35%+ lost attribution signals.",
+      technologies: [
+        "Server-Side GTM",
+        "Cloudflare Workers",
+        "Meta CAPI",
+        "GA4",
+        "Stape",
+        "Cookie Consent",
+      ],
+      links: [],
+      image: "",
+      video: "",
+    },
+    {
+      title: "eCommerce DataLayer & Full-Funnel Tracking",
+      href: "#",
+      dates: "2025",
+      active: true,
+      description:
+        "Architected complete data layer architecture for high-volume WooCommerce and Shopify stores. Accurately tracks view_item, add_to_cart, begin_checkout, and purchase events with dynamic currency conversion and transaction deduplication.",
+      technologies: [
+        "Google Tag Manager",
+        "WooCommerce",
+        "GA4",
+        "DataLayer",
+        "Meta Pixel",
+        "TikTok Pixel",
+      ],
+      links: [],
+      image: "",
+      video: "",
+    },
+    {
+      title: "Automated Looker Studio Executive Dashboard",
+      href: "#",
+      dates: "2024 - 2025",
+      active: true,
+      description:
+        "Consolidated multi-platform marketing and sales metrics (GA4, Google Ads, Meta Ads, and Search Console) into a centralized, auto-refreshing Looker Studio business intelligence dashboard for stakeholders.",
+      technologies: [
+        "Looker Studio",
+        "GA4",
+        "Google Search Console",
+        "Meta Ads",
+        "Data Studio",
+        "KPIs",
+      ],
+      links: [],
+      image: "",
+      video: "",
+    },
+    {
+      title: "WordPress Performance & Conversion Rate Optimization",
+      href: "#",
+      dates: "2024 - 2025",
+      active: true,
+      description:
+        "Comprehensive site architecture and page speed audit achieving 95+ mobile Core Web Vitals scores, integrated Microsoft Clarity behavioral heatmaps, and streamlined single-page checkout flow.",
+      technologies: [
+        "WordPress",
+        "Core Web Vitals",
+        "Technical SEO",
+        "A/B Testing",
+        "Microsoft Clarity",
+        "CRO",
+      ],
+      links: [],
+      image: "",
+      video: "",
+    },
+  ],
   hackathons: [
     {
       title: "Server-Side Tracking & Meta CAPI Infrastructure",

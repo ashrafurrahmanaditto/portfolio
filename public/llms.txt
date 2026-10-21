@@ -1,0 +1,36 @@
+# Ashrafur Rahman Aditto
+
+> Web Analytics Specialist, Server-Side Tracking Engineer & WordPress Developer. Specialist in Google Analytics 4 (GA4), Google Tag Manager (GTM), Server-Side Tracking (Cloudflare Workers & Stape), Meta Conversion API (CAPI), and high-converting WordPress/WooCommerce optimization.
+
+## About Ashrafur Rahman Aditto
+Ashrafur Rahman Aditto is a Web Analytics Specialist, Server-Side Tracking Consultant, and WordPress Developer based in Kurigram, Rangpur, Bangladesh, serving international clients remotely across the United States, Europe, and worldwide. Formerly Growth Lead at Hive Intelligence, he specializes in turning complex behavioral data into scalable revenue through precision tracking architectures.
+
+## Core Specializations
+- **Google Analytics 4 (GA4)**: End-to-end setup, custom event schemas, attribution auditing, cross-domain measurement, and enhanced measurement.
+- **Google Tag Manager (GTM)**: Web and Server-Side GTM container architecture, custom JavaScript variables, triggers, and data layer handlers.
+- **Server-Side Tracking**: Infrastructure deployed via Cloudflare Workers and Stape.io to bypass iOS Safari ITP (Intelligent Tracking Prevention) and ad-blocker signal loss.
+- **Meta Conversion API (CAPI)**: Redundant server-side and browser tracking with 9.0+ Event Match Quality (EMQ) deduplication.
+- **Looker Studio**: Executive and operational business intelligence dashboards connecting GA4, Google Ads, Meta Ads, and Search Console.
+- **WordPress & WooCommerce**: Technical SEO, Core Web Vitals performance optimization, Gutenberg, Elementor Pro, and full-funnel checkout tracking.
+- **Compliance & Privacy**: GDPR, CCPA, and ePrivacy compliant cookie consent banners (Cookiebot, Complianz) with Google Consent Mode v2.
+
+## Professional Experience
+- **Growth Lead** at Hive Intelligence (Jan 2025 – Jul 2026, United States / Remote): Spearheaded cross-functional tracking implementations, boosting campaign attribution accuracy by 30% for client WordPress platforms.
+- **Freelance Web Analytics & Tracking Consultant** (2023 – Present): Architecting resilient tracking pipelines, data layer integrations, and server-side infrastructure for eCommerce and SaaS brands.
+
+## Education & Credentials
+- **Higher Secondary Certificate (HSC) in Science**: Nageshwari Govt. College (2023 – 2025).
+
+## Key Case Studies
+- [Server-Side Tracking & Meta CAPI Infrastructure](https://ashrafurrahman.cv/#projects): Restoring 35%+ lost tracking signals and securing high event match quality scores.
+- [eCommerce DataLayer & Full-Funnel Tracking](https://ashrafurrahman.cv/#projects): Full e-commerce schema (view_item, add_to_cart, purchase) for WooCommerce stores.
+- [Executive Looker Studio Dashboards](https://ashrafurrahman.cv/#projects): Centralized reporting for multi-channel acquisition and ROAS analysis.
+- [WordPress Core Web Vitals & CRO](https://ashrafurrahman.cv/#projects): 95+ PageSpeed scores and behavioral heatmap analytics.
+
+## Contact & Links
+- Website: https://ashrafurrahman.cv
+- Email: ashrafurrahmanaditto@gmail.com
+- WhatsApp: +8801612686608 (https://wa.me/8801612686608)
+- GitHub: https://github.com/ashrafurrahmanaditto
+- LinkedIn: https://www.linkedin.com/in/ashrafur-rahman-aditto
+- Location: Kurigram, Rangpur, Bangladesh (Available Worldwide)

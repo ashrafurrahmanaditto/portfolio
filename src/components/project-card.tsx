@@ -12,14 +12,21 @@ function ProjectImage({ src, alt }: { src: string; alt: string }) {
   const [imageError, setImageError] = useState(false);
 
   if (!src || imageError) {
-    return <div className="w-full h-48 bg-muted" />;
+    return (
+      <div className="w-full h-44 bg-muted/70 flex flex-col items-center justify-center gap-1.5 border-b border-border/40 select-none">
+        <div className="w-8 h-8 rounded-lg bg-muted-foreground/10 flex items-center justify-center">
+          <div className="w-3.5 h-3.5 rounded-sm border border-muted-foreground/30" />
+        </div>
+        <span className="text-[11px] font-medium tracking-wide uppercase text-muted-foreground/50">Preview</span>
+      </div>
+    );
   }
 
   return (
     <img
       src={src}
       alt={alt}
-      className="w-full h-48 object-cover"
+      className="w-full h-44 object-cover"
       onError={() => setImageError(true)}
     />
   );
@@ -80,7 +87,12 @@ export function ProjectCard({
           ) : image ? (
             <ProjectImage src={image} alt={title} />
           ) : (
-            <div className="w-full h-48 bg-muted" />
+            <div className="w-full h-44 bg-muted/70 flex flex-col items-center justify-center gap-1.5 border-b border-border/40 select-none">
+              <div className="w-8 h-8 rounded-lg bg-muted-foreground/10 flex items-center justify-center">
+                <div className="w-3.5 h-3.5 rounded-sm border border-muted-foreground/30" />
+              </div>
+              <span className="text-[11px] font-medium tracking-wide uppercase text-muted-foreground/50">Preview</span>
+            </div>
           )}
         </Link>
         {links && links.length > 0 && (
